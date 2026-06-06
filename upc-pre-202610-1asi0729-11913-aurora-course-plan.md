@@ -127,7 +127,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Recursos Adicionales
 
-- **Código fuente completo:** https://github.com/Aurora-startup/java-fundamentals-course-aurora/new/main
+- **Código fuente completo:** https://github.com/Aurora-startup/java-fundamentals-course-aurora
 - **Todas las actividades prácticas:**
 
 | Número de lección | Actividad | Empezar a programar |
