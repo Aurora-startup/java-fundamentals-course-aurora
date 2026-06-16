@@ -34,25 +34,23 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ---
 
 ### Lección 3: Hello World, Variables y Operadores
-- **Descripción:** Abrimos Replit por primera vez y escribimos nuestras primeras líneas de Java. Aprendemos a guardar información en variables y a operar con ella.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Descripción:** Abrimos Java Playground por primera vez y escribimos nuestras primeras líneas de Java. Aprendemos a guardar información en variables y a operar con ella.
+- **Enlace:** [Ver la lección](https://youtu.be/uaS7JefcGs4)
 - **Conclusiones clave:**
-  - `System.out.println("Hola!")` es tu primera línea de código real.
+  - `System.out.println("Hola Mundo :D")` es tu primera línea de código real.
   - `int`, `String`, `double` — los tipos de datos más usados.
   - Los operadores `+` `-` `*` `/` transforman tus datos.
-  - Los valores se escriben directo en el código — sin Scanner todavía.
-- **Práctica:** [Abrir en Replit](https://replit.com/@your-lesson3) ⭐ **¡No es necesario registrarse!**
+- **Práctica:** [Abrir en Java Playground](https://dev.java/playground/) ⭐ **¡No es necesario registrarse!**
 
 ---
 
 ### Lección 4: Decisiones con if-else 
 - **Descripción:** Aprende a que tu programa tome decisiones según los datos. El programa decidirá si un estudiante aprobó, está en recuperación o jalló.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace:** [Ver la lección](https://youtu.be/hgmeQ64gsQs)
 - **Conclusiones clave:**
   - `if / else if / else` permiten múltiples caminos en tu programa.
   - Las condiciones usan operadores de comparación: `>`, `<`, `==`.
-  - Ejemplo: `if (nota >= 60) { System.out.println("Aprobado"); }`
-- **Práctica:** [Abrir en JDoodle](https://jdoodle.com/@your-lesson4) ⭐ **¡Inicio inmediato!**
+- **Práctica:** [Abrir en Java Playground](https://dev.java/playground/) ⭐ **¡Inicio inmediato!**
 
 ---
 
