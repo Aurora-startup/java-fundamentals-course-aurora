@@ -11,30 +11,29 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 > 📁 **Repositorio de Código Fuente:** https://github.com/Aurora-startup/java-fundamentals-course-aurora
 
 ---
-### Lección 1: Fundamentos de Java (8 minutos)
-- **Descripción:** Antes de escribir cualquier línea de código, entendemos qué es programar, qué es Java y por qué vale la pena aprenderlo. Sin código — solo ideas claras.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+### Lección 1: Fundamentos de Java
+- **Descripción:** Antes de escribir cualquier línea de código, entendemos qué es programar, que es un lenguaje de programacion, qué es Java y por qué vale la pena aprenderlo. 
+- **Enlace:** [https://youtu.be/zp57QpEErJE](https://youtu.be/zp57QpEErJE)
 - **Temas:**
   - **¿Qué es programar?** Darle instrucciones a una computadora, como una receta de cocina. El chef eres tú, la computadora es quien la sigue al pie de la letra.
   - **¿Qué es Java?** Un lenguaje que la computadora entiende. Como el español o el inglés, pero para hablar con máquinas.
   - **¿Para qué sirve Java?** Apps de Android, Minecraft, sistemas bancarios, Netflix. Java está en casi todo lo que usas a diario.
   - **¿Cómo se ve Java?** Mostramos en pantalla cómo luce el código de forma visual — solo para que no sea un shock cuando lo vean en el video 3.
+- **Material de la lección:** [https://canva.link/938ko7lfrukrd2c](https://canva.link/938ko7lfrukrd2c)
 
 ---
 
-### Lección 2: ¿Qué es la Programación Orientada a Objetos? (10 minutos)
-- **Descripción:** Entendemos la POO con ejemplos del mundo real antes de tocar código. Conocemos sus cuatro principios fundamentales con analogías simples.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+### Lección 2: ¿Qué es la Programación Orientada a Objetos? 
+- **Descripción:** Entendemos la POO con ejemplos del mundo real antes de tocar código. Conocemos que son los objetos, las clases y como se relaciona con Java.
+- **Enlace:** [https://youtu.be/aIASZEMWdG4](https://youtu.be/aIASZEMWdG4)
 - **Temas:**
   - **¿Qué es la POO?** Una forma de organizar el código usando objetos del mundo real. En lugar de instrucciones sueltas, agrupas todo en "cosas" con características y acciones.
   - **Clases y Objetos:** La clase es el molde (plano de una casa), el objeto es el resultado (la casa construida). Del mismo molde puedes crear muchos objetos distintos.
-  - **Encapsulamiento:** Proteger los datos de un objeto para que nadie los cambie sin permiso. Como tu clave del celular: existe, pero solo tú puedes usarla.
-  - **Abstracción:** Mostrar solo lo necesario y ocultar lo complejo. Cuando presionas el acelerador de un carro no necesitas entender cómo funciona el motor — solo sabes que acelera.
-  - **Herencia:** Una clase puede heredar características de otra. Un "Estudiante de intercambio" sigue siendo un Estudiante — tiene todo lo de un estudiante más cosas extra.
-  - **Polimorfismo:** La misma acción puede comportarse diferente según el objeto. "Hablar" no es igual para un perro que para una persona — pero los dos "hablan".
+  - **¿Cómo se relaciona con Java?:** Java fue diseñado para trabajar principalmente con Programación Orientada a Objetos, todo lo que hacemos en Java gira alrededor de clases y objetos.
+- **Material de la lección:** [https://canva.link/2ge2a8btizah7by](https://canva.link/2ge2a8btizah7by)
 ---
 
-### Lección 3: Hello World, Variables y Operadores (12 minutos)
+### Lección 3: Hello World, Variables y Operadores
 - **Descripción:** Abrimos Replit por primera vez y escribimos nuestras primeras líneas de Java. Aprendemos a guardar información en variables y a operar con ella.
 - **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Conclusiones clave:**
@@ -46,7 +45,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 4: Decisiones con if-else (10 minutos)
+### Lección 4: Decisiones con if-else 
 - **Descripción:** Aprende a que tu programa tome decisiones según los datos. El programa decidirá si un estudiante aprobó, está en recuperación o jalló.
 - **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link4)
 - **Conclusiones clave:**
@@ -57,7 +56,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 5: Bucles — Repetir sin Cansarse (10 minutos)
+### Lección 5: Bucles — Repetir sin Cansarse 
 - **Descripción:** Aprende a repetir acciones automáticamente. En lugar de escribir lo mismo 30 veces, el bucle lo hace por ti.
 - **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave:**
@@ -68,7 +67,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 6: Métodos — Tu Propio Comando (9 minutos)
+### Lección 6: Métodos — Tu Propio Comando 
 - **Descripción:** Crea bloques de código reutilizables con métodos. Como crear un botón personalizado que puedes usar cuantas veces quieras.
 - **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Conclusiones clave:**
@@ -79,7 +78,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 7: Clases y Objetos en Java (12 minutos)
+### Lección 7: Clases y Objetos en Java 
 - **Descripción:** Llevas la idea del video 2 al código. Crea tu primera clase `Estudiante` y genera objetos a partir de ella.
 - **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link7)
 - **Conclusiones clave:**
@@ -91,7 +90,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 8: Métodos del Objeto (10 minutos)
+### Lección 8: Métodos del Objeto 
 - **Descripción:** Agrega comportamientos a tu clase `Estudiante`. El objeto ya no solo guarda datos — ahora también sabe hacer cosas.
 - **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link8)
 - **Conclusiones clave:**
@@ -102,7 +101,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 9: Encapsulamiento y Arrays de Objetos (10 minutos)
+### Lección 9: Encapsulamiento y Arrays de Objetos 
 - **Descripción:** Protege los datos de tu clase con encapsulamiento y aprende a manejar listas de objetos con arrays.
 - **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link9)
 - **Conclusiones clave:**
@@ -114,7 +113,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### Lección 10: Proyecto Final — Sistema de Registro Estudiantil (15 minutos)
+### Lección 10: Proyecto Final — Sistema de Registro Estudiantil
 - **Descripción:** Construye un programa completo usando todo lo aprendido. Registra estudiantes, muestra la lista del salón y encuentra el mejor promedio — todo con POO.
 - **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link10)
 - **Conclusiones clave:**
@@ -128,13 +127,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Recursos Adicionales
 
-- **Código fuente completo:** [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
+- **Código fuente completo:** [https://github.com/Aurora-startup/java-fundamentals-course-aurora](https://github.com/Aurora-startup/java-fundamentals-course-aurora)
 - **Todas las actividades prácticas:**
 
 | # | Lección | Herramienta | Enlace |
 |---|---------|-------------|--------|
-| 1 | Fundamentos de Java | *(solo teoría)* | — |
-| 2 | ¿Qué es la POO? | *(solo teoría)* | — |
+| 1 | Fundamentos de Java | Canva | [https://canva.link/938ko7lfrukrd2c](https://canva.link/938ko7lfrukrd2c) |
+| 2 | ¿Qué es la POO? | Canva | [https://canva.link/2ge2a8btizah7by](https://canva.link/2ge2a8btizah7by>) |
 | 3 | Hello World, Variables y Operadores | Replit | [Abrir](https://replit.com/@your-lesson3) |
 | 4 | Decisiones con if-else | Replit | [Abrir](https://jdoodle.com/@your-lesson4) |
 | 5 | Bucles | Replit | [Abrir](https://replit.com/@your-lesson5) |
@@ -144,7 +143,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 9 | Encapsulamiento y Arrays | Replit | [Abrir](https://onlinegdb.com/@your-lesson9) |
 | 10 | Proyecto Final | Replit | [Abrir](https://replit.com/@your-final-java) |
 
-- **Cuestionario:** [Prueba de conocimientos](https://forms.gle/your-quiz)
 - **Compartir:** #JavaBeginners
 
 ---
