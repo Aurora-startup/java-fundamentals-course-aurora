@@ -1,0 +1,1 @@
+Link al material de la lección 6: https://canva.link/l3qn70681x23oh5
