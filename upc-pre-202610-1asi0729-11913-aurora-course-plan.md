@@ -78,24 +78,24 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 7: Clases y Objetos en Java 
 - **Descripción:** Llevas la idea del video 2 al código. Crea tu primera clase `Estudiante` y genera objetos a partir de ella.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link7)
+- **Enlace:** [https://youtu.be/qkE4stSpOjg](https://youtu.be/qkE4stSpOjg)
 - **Conclusiones clave:**
   - `class Estudiante { String nombre; int edad; double nota; }`
   - El constructor inicializa el objeto: `public Estudiante(String nombre, int edad, double nota) {}`
   - `new Estudiante("Ana", 15, 85.0)` crea un objeto real en memoria.
   - "Recuerdan el molde del video 2 — esto es ese molde en código."
-- **Práctica:** [Abrir en Replit](https://replit.com/@your-lesson7) ⭐ **¡No es necesario registrarse!**
+- **Práctica:** [Abrir en JDoodle](https://www.jdoodle.com/ga/ht32pm8oBlYByBk9qULSMA%3D%3D)
 
 ---
 
 ### Lección 8: Métodos del Objeto 
 - **Descripción:** Agrega comportamientos a tu clase `Estudiante`. El objeto ya no solo guarda datos — ahora también sabe hacer cosas.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link8)
+- **Enlace:** [https://youtu.be/G-c5MyWFwac](https://youtu.be/G-c5MyWFwac)
 - **Conclusiones clave:**
   - `public void mostrarInfo()` imprime los datos del estudiante.
   - `public boolean estaAprobado()` usa el if-else del video 4, pero dentro del objeto.
   - Se llama con: `estudiante.mostrarInfo();`
-- **Práctica:** [Abrir en JDoodle](https://jdoodle.com/@your-lesson8) ⭐ **¡Inicio inmediato!**
+- **Práctica:** [Abrir en JDoodle](https://www.jdoodle.com/ga/GP1PmU7gYnmoH3Ma51t6vA%3D%3D)
 
 ---
 
