@@ -56,23 +56,23 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 5: Bucles — Repetir sin Cansarse 
 - **Descripción:** Aprende a repetir acciones automáticamente. En lugar de escribir lo mismo 30 veces, el bucle lo hace por ti.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace:** [Ver la lección](https://youtu.be/9cS46RUXBHU?si=xIuHOnpV2ns_Wl1R)
 - **Conclusiones clave:**
   - `for` cuando sabes cuántas veces repetir: `for (int i = 0; i < 5; i++)`
   - `while` cuando repites hasta que una condición cambie.
   - Cierre: "Pronto usarás esto para recorrer una lista de objetos."
-- **Práctica:** [Abrir en Replit](https://replit.com/@your-lesson5) ⭐ **¡No es necesario registrarse!**
+- **Práctica:** [Abrir en Replit](https://replit.com/join/uvfojbcwolpblgq-j-ai42) ⭐ 
 
 ---
 
 ### Lección 6: Métodos — Tu Propio Comando 
 - **Descripción:** Crea bloques de código reutilizables con métodos. Como crear un botón personalizado que puedes usar cuantas veces quieras.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace:** [Ver la lección](https://youtu.be/uXR6e6QkMYs)
 - **Conclusiones clave:**
   - `public static double calcularPromedio(double a, double b) {}`
   - Los métodos reciben parámetros y pueden devolver un resultado.
   - Cierre: "Este método pronto vivirá dentro de un objeto."
-- **Práctica:** [Abrir en OnlineGDB](https://onlinegdb.com/@your-lesson6) ⭐ **¡No necesitas registrarte!**
+- **Práctica:** [Abrir en OnlineGDB](https://onlinegdb.com/LbCd3eKN2) ⭐ **¡No necesitas registrarte!**
 
 ---
 
