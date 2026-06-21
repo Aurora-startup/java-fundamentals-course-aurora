@@ -113,13 +113,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 10: Proyecto Final — Sistema de Registro Estudiantil
 - **Descripción:** Construye un programa completo usando todo lo aprendido. Registra estudiantes, muestra la lista del salón y encuentra el mejor promedio — todo con POO.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link10)
+- **Enlace:** [Ver la lección](https://youtu.be/RRwi0VtL8YY)
 - **Conclusiones clave:**
   - Clase `Estudiante` completa con encapsulamiento, métodos y constructor.
   - Array de objetos recorrido con `for` para mostrar toda la lista.
   - Aquí sí aparece `Scanner` para que el programa pida datos al usuario.
   - Errores comunes y buenas prácticas para principiantes.
-- **Proyecto final:** [Crear en Replit](https://replit.com/@your-final-java) ⭐ **¡Guarda y comparte!**
+- **Practica:** [Crear en Replit](https://onlinegdb.com/tIJQahs5i)
 
 ---
 
@@ -138,8 +138,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 6 | Métodos | Replit | [Abrir](https://onlinegdb.com/@your-lesson6) |
 | 7 | Clases y Objetos | Replit | [Abrir](https://replit.com/@your-lesson7) |
 | 8 | Métodos del Objeto | Replit | [Abrir](https://jdoodle.com/@your-lesson8) |
-| 9 | Encapsulamiento y Arrays | Replit | [Abrir](https://onlinegdb.com/@your-lesson9) |
-| 10 | Proyecto Final | Replit | [Abrir](https://replit.com/@your-final-java) |
+| 9 | Encapsulamiento y Arrays | onlinegdb | [Abrir](https://onlinegdb.com/kZnjzJhxB) |
+| 10 | Proyecto Final | onlinegdb | [Abrir](https://onlinegdb.com/tIJQahs5i) |
 
 - **Compartir:** #JavaBeginners
 
