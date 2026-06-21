@@ -101,6 +101,7 @@ NRC: 11913 <br>
 **Integrantes del equipo:**
 
 * Alexandra Yamile Meza Soza
+* Ayasta Martel Zayd Jaffar
 * Joan Fabricio Payano Puchuri
 * Juan Sung Jau Wang Chen
 * Marcelo Fabio Cuadros Villanueva

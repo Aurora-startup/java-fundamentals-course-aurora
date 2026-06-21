@@ -101,13 +101,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 9: Encapsulamiento y Arrays de Objetos 
 - **Descripción:** Protege los datos de tu clase con encapsulamiento y aprende a manejar listas de objetos con arrays.
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link9)
+- **Enlace:** [Ver la lección](https://youtu.be/CRUfviYVv4I)
 - **Conclusiones clave:**
   - `private` impide el acceso directo a los atributos desde fuera de la clase.
   - Getters y setters controlan cómo se leen y modifican los datos.
-  - `Estudiante[] salon = new Estudiante[30];` guarda 30 objetos en un array.
-  - El `for` del video 5 cobra su sentido real: recorrer objetos del salón.
-- **Práctica:** [Abrir en OnlineGDB](https://onlinegdb.com/@your-lesson9) ⭐ **¡No necesitas registrarte!**
+  - `Estudiante[] salon = new Estudiante[3];` guarda 3 objetos en un array.
+  - El `for` del video 5 cobra su sentido real: recorrer objetos de estudiantes.
+- **Práctica:** [Abrir en OnlineGDB](https://onlinegdb.com/kZnjzJhxB)
 
 ---
 
